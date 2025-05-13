@@ -1,3 +1,0 @@
-C:/Users/Yeahmonny/CLionProjects/StudentManagementSystem/cmake-build-debug/CMakeFiles/StudentManagementSystem.dir
-C:/Users/Yeahmonny/CLionProjects/StudentManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Yeahmonny/CLionProjects/StudentManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
